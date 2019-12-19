@@ -1,0 +1,11 @@
+C:\Projetos\CalculoDeDano\CalculoDeDano\bin\Debug\netcoreapp3.0\CalculoDeDano.exe
+C:\Projetos\CalculoDeDano\CalculoDeDano\bin\Debug\netcoreapp3.0\CalculoDeDano.deps.json
+C:\Projetos\CalculoDeDano\CalculoDeDano\bin\Debug\netcoreapp3.0\CalculoDeDano.runtimeconfig.json
+C:\Projetos\CalculoDeDano\CalculoDeDano\bin\Debug\netcoreapp3.0\CalculoDeDano.runtimeconfig.dev.json
+C:\Projetos\CalculoDeDano\CalculoDeDano\bin\Debug\netcoreapp3.0\CalculoDeDano.dll
+C:\Projetos\CalculoDeDano\CalculoDeDano\bin\Debug\netcoreapp3.0\CalculoDeDano.pdb
+C:\Projetos\CalculoDeDano\CalculoDeDano\obj\Debug\netcoreapp3.0\CalculoDeDano.csprojAssemblyReference.cache
+C:\Projetos\CalculoDeDano\CalculoDeDano\obj\Debug\netcoreapp3.0\CalculoDeDano.AssemblyInfoInputs.cache
+C:\Projetos\CalculoDeDano\CalculoDeDano\obj\Debug\netcoreapp3.0\CalculoDeDano.AssemblyInfo.cs
+C:\Projetos\CalculoDeDano\CalculoDeDano\obj\Debug\netcoreapp3.0\CalculoDeDano.dll
+C:\Projetos\CalculoDeDano\CalculoDeDano\obj\Debug\netcoreapp3.0\CalculoDeDano.pdb
